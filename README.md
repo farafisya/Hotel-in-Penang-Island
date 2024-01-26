@@ -1,1 +1,1 @@
-# Hotel-in-Penang-Island
+# Hotel in Penang Island
